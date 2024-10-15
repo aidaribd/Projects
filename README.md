@@ -3,8 +3,10 @@ Welcome to my repository! Here you will find a collection of my projects that sh
 ## Project List
 **Toxic Comment Classification**  
    *Description*: A text classification model to detect toxic comments in an online store environment. The model processes user comments and flags inappropriate content for moderation.
+   
 **Customer Segmentation and Activity Prediction**  
    *Description*: Using customer behavior data, I built models to segment users and predict future activity. The focus of the project was to increase customer retention through predictive analytics.
+   
 **Taxi Demand Time Series Forecasting**  
    *Description*: This project involves forecasting taxi demand across different regions based on historical data. Using time series analysis and machine learning models, the goal was to optimize the allocation of taxis and improve service efficiency.
 
